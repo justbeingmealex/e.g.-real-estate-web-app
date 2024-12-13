@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/your-github-username/real-estate-web-app.git
+git add .
+git commit -m "Initial commit of frontend"
+git push -u origin master
